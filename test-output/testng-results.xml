@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Edureka" duration-ms="51223" started-at="2019-03-04T04:06:57Z" finished-at="2019-03-04T04:07:48Z">
+    <groups>
+    </groups>
+    <test name="RegressionTest" duration-ms="51223" started-at="2019-03-04T04:06:57Z" finished-at="2019-03-04T04:07:48Z">
+      <class name="co.edureka.testscripts.UploadProfile">
+        <test-method status="PASS" signature="launchApplication(java.lang.String)[pri:0, instance:co.edureka.testscripts.UploadProfile@3108bc]" name="launchApplication" is-config="true" duration-ms="10226" started-at="2019-03-04T04:06:57Z" finished-at="2019-03-04T04:07:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="TC01_Upload_Profile(java.lang.String, java.lang.String)[pri:0, instance:co.edureka.testscripts.UploadProfile@3108bc]" name="TC01_Upload_Profile" duration-ms="40971" started-at="2019-03-04T04:07:07Z" data-provider="getData" finished-at="2019-03-04T04:07:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pranjali.yadav2025@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pranjali.yadav2025@3073]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_Upload_Profile -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:co.edureka.testscripts.UploadProfile@3108bc]" name="closeApplication" is-config="true" duration-ms="0" started-at="2019-03-04T04:07:48Z" finished-at="2019-03-04T04:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- co.edureka.testscripts.UploadProfile -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- Edureka -->
+</testng-results>

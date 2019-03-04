@@ -1,0 +1,251 @@
+2019-03-03 22:05:33 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (22c79b33c10aae8c9d2301f067e562dc)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 22:05:35 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 22:05:35 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (22c79b33c10aae8c9d2301f067e562dc)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 22:05:36 INFO  BasePage:59 - Email Entered
+2019-03-03 22:05:36 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (22c79b33c10aae8c9d2301f067e562dc)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 22:05:36 INFO  BasePage:71 - Password Entered
+2019-03-03 22:05:37 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (22c79b33c10aae8c9d2301f067e562dc)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 22:05:38 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 22:05:48 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 22:05:48 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (22c79b33c10aae8c9d2301f067e562dc)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 22:05:49 INFO  BasePage:52 - Profile Button Clicked
+2019-03-03 22:05:50 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (22c79b33c10aae8c9d2301f067e562dc)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 22:05:53 INFO  BasePage:65 - MyProfile Button Clicked
+2019-03-03 22:05:53 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (22c79b33c10aae8c9d2301f067e562dc)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 22:05:55 INFO  BasePage:78 - Edit Button Clicked
+2019-03-03 22:05:55 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (22c79b33c10aae8c9d2301f067e562dc)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 22:05:56 INFO  BasePage:90 - camera Button Clicked
+2019-03-03 22:06:07 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (22c79b33c10aae8c9d2301f067e562dc)] -> id: custom-input]
+2019-03-03 22:06:08 INFO  BasePage:102 - choosefile Button Clicked
+2019-03-03 22:08:55 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f3b095d46b19c57bd0e0c7b0c66157e0)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 22:08:57 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 22:08:57 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f3b095d46b19c57bd0e0c7b0c66157e0)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 22:08:57 INFO  BasePage:59 - Email Entered
+2019-03-03 22:08:58 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f3b095d46b19c57bd0e0c7b0c66157e0)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 22:08:59 INFO  BasePage:71 - Password Entered
+2019-03-03 22:08:59 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f3b095d46b19c57bd0e0c7b0c66157e0)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 22:09:00 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 22:09:10 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 22:09:10 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f3b095d46b19c57bd0e0c7b0c66157e0)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 22:09:12 INFO  BasePage:52 - Profile Button Clicked
+2019-03-03 22:09:12 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f3b095d46b19c57bd0e0c7b0c66157e0)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 22:09:16 INFO  BasePage:65 - MyProfile Button Clicked
+2019-03-03 22:09:16 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f3b095d46b19c57bd0e0c7b0c66157e0)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 22:09:17 INFO  BasePage:78 - Edit Button Clicked
+2019-03-03 22:09:17 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f3b095d46b19c57bd0e0c7b0c66157e0)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 22:09:18 INFO  BasePage:90 - camera Button Clicked
+2019-03-03 22:09:29 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (f3b095d46b19c57bd0e0c7b0c66157e0)] -> id: custom-input]
+2019-03-03 22:09:29 INFO  BasePage:102 - choosefile Button Clicked
+2019-03-03 22:25:54 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (2c5a900c5a1839d46edbb3c04fc54f4a)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 22:25:55 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 22:25:55 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (2c5a900c5a1839d46edbb3c04fc54f4a)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 22:25:56 INFO  BasePage:59 - Email Entered
+2019-03-03 22:25:56 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (2c5a900c5a1839d46edbb3c04fc54f4a)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 22:25:56 INFO  BasePage:71 - Password Entered
+2019-03-03 22:25:56 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (2c5a900c5a1839d46edbb3c04fc54f4a)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 22:25:58 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 22:26:08 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 22:26:08 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (2c5a900c5a1839d46edbb3c04fc54f4a)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 22:26:09 INFO  BasePage:52 - Profile Button Clicked
+2019-03-03 22:26:09 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (2c5a900c5a1839d46edbb3c04fc54f4a)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 22:26:14 INFO  BasePage:65 - MyProfile Button Clicked
+2019-03-03 22:26:14 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (2c5a900c5a1839d46edbb3c04fc54f4a)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 22:26:16 INFO  BasePage:78 - Edit Button Clicked
+2019-03-03 22:26:16 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (2c5a900c5a1839d46edbb3c04fc54f4a)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 22:26:17 INFO  BasePage:90 - camera Button Clicked
+2019-03-03 22:26:27 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (2c5a900c5a1839d46edbb3c04fc54f4a)] -> id: custom-input]
+2019-03-03 22:26:28 INFO  BasePage:102 - choosefile Button Clicked
+2019-03-03 22:29:40 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (63a24ca11601377d4a1daf09a8b7d96f)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 22:29:41 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 22:29:42 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (63a24ca11601377d4a1daf09a8b7d96f)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 22:29:42 INFO  BasePage:59 - Email Entered
+2019-03-03 22:29:43 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (63a24ca11601377d4a1daf09a8b7d96f)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 22:29:43 INFO  BasePage:71 - Password Entered
+2019-03-03 22:29:43 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (63a24ca11601377d4a1daf09a8b7d96f)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 22:29:44 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 22:29:55 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 22:29:55 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (63a24ca11601377d4a1daf09a8b7d96f)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 22:29:56 INFO  BasePage:52 - Profile Button Clicked
+2019-03-03 22:29:56 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (63a24ca11601377d4a1daf09a8b7d96f)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 22:30:00 INFO  BasePage:65 - MyProfile Button Clicked
+2019-03-03 22:30:00 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (63a24ca11601377d4a1daf09a8b7d96f)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 22:30:01 INFO  BasePage:78 - Edit Button Clicked
+2019-03-03 22:30:01 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (63a24ca11601377d4a1daf09a8b7d96f)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 22:30:02 INFO  BasePage:90 - camera Button Clicked
+2019-03-03 22:30:12 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (63a24ca11601377d4a1daf09a8b7d96f)] -> id: custom-input]
+2019-03-03 22:30:13 INFO  BasePage:102 - choosefile Button Clicked
+2019-03-03 22:35:42 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (052f3df47f287721922f286cbb3a6413)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 22:35:43 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 22:35:43 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (052f3df47f287721922f286cbb3a6413)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 22:35:44 INFO  BasePage:59 - Email Entered
+2019-03-03 22:35:44 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (052f3df47f287721922f286cbb3a6413)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 22:35:44 INFO  BasePage:71 - Password Entered
+2019-03-03 22:35:44 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (052f3df47f287721922f286cbb3a6413)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 22:35:45 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 22:35:56 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 22:35:56 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (052f3df47f287721922f286cbb3a6413)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 22:35:57 INFO  BasePage:52 - Profile Button Clicked
+2019-03-03 22:35:57 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (052f3df47f287721922f286cbb3a6413)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 22:36:01 INFO  BasePage:65 - MyProfile Button Clicked
+2019-03-03 22:36:01 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (052f3df47f287721922f286cbb3a6413)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 22:36:02 INFO  BasePage:78 - Edit Button Clicked
+2019-03-03 22:36:03 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (052f3df47f287721922f286cbb3a6413)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 22:36:03 INFO  BasePage:90 - camera Button Clicked
+2019-03-03 22:36:13 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (052f3df47f287721922f286cbb3a6413)] -> id: custom-input]
+2019-03-03 22:36:14 INFO  BasePage:102 - choosefile Button Clicked
+2019-03-03 22:37:40 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (4701ed36370ce4e5762edabf6ec03d12)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 22:37:41 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 22:37:41 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (4701ed36370ce4e5762edabf6ec03d12)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 22:37:43 INFO  BasePage:59 - Email Entered
+2019-03-03 22:37:43 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (4701ed36370ce4e5762edabf6ec03d12)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 22:37:44 INFO  BasePage:71 - Password Entered
+2019-03-03 22:37:44 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (4701ed36370ce4e5762edabf6ec03d12)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 22:37:45 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 22:37:55 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 22:37:55 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (4701ed36370ce4e5762edabf6ec03d12)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 22:37:56 INFO  BasePage:52 - Profile Button Clicked
+2019-03-03 22:37:56 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (4701ed36370ce4e5762edabf6ec03d12)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 22:38:03 INFO  BasePage:65 - MyProfile Button Clicked
+2019-03-03 22:38:03 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (4701ed36370ce4e5762edabf6ec03d12)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 22:38:04 INFO  BasePage:78 - Edit Button Clicked
+2019-03-03 22:38:04 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (4701ed36370ce4e5762edabf6ec03d12)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 22:38:05 INFO  BasePage:90 - camera Button Clicked
+2019-03-03 22:38:15 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (4701ed36370ce4e5762edabf6ec03d12)] -> id: custom-input]
+2019-03-03 22:38:16 INFO  BasePage:102 - choosefile Button Clicked
+2019-03-03 22:42:06 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 22:42:08 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 22:42:08 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 22:42:08 INFO  BasePage:59 - Email Entered
+2019-03-03 22:42:08 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 22:42:09 INFO  BasePage:71 - Password Entered
+2019-03-03 22:42:09 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 22:42:10 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 22:42:20 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 22:42:20 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 22:42:22 INFO  BasePage:56 - Profile Button Clicked
+2019-03-03 22:42:22 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 22:42:26 INFO  BasePage:69 - MyProfile Button Clicked
+2019-03-03 22:42:26 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 22:42:27 INFO  BasePage:82 - Edit Button Clicked
+2019-03-03 22:42:27 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 22:42:28 INFO  BasePage:94 - camera Button Clicked
+2019-03-03 22:42:38 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> id: custom-input]
+2019-03-03 22:42:39 INFO  BasePage:106 - choosefile Button Clicked
+2019-03-03 22:42:41 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (6d4018ed6c56fafd460345b7c15d4f1a)] -> xpath: //button[@class='submitbtn']]
+2019-03-03 22:42:41 INFO  BasePage:118 - upload Button Clicked
+2019-03-03 22:57:25 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 22:57:26 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 22:57:26 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 22:57:26 INFO  BasePage:59 - Email Entered
+2019-03-03 22:57:27 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 22:57:27 INFO  BasePage:71 - Password Entered
+2019-03-03 22:57:27 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 22:57:28 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 22:57:39 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 22:57:39 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 22:57:40 INFO  BasePage:72 - Profile Button Clicked
+2019-03-03 22:57:40 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 22:57:44 INFO  BasePage:85 - MyProfile Button Clicked
+2019-03-03 22:57:44 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 22:57:46 INFO  BasePage:98 - Edit Button Clicked
+2019-03-03 22:57:46 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 22:57:46 INFO  BasePage:110 - camera Button Clicked
+2019-03-03 22:57:57 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> id: custom-input]
+2019-03-03 22:57:57 INFO  BasePage:122 - choosefile Button Clicked
+2019-03-03 22:58:00 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //button[@class='submitbtn']]
+2019-03-03 22:58:00 INFO  BasePage:134 - upload Button Clicked
+2019-03-03 22:58:01 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //button[@class='btn btn-default pull-right verify-continue-btn']]
+2019-03-03 22:58:01 INFO  BasePage:147 - continue Button Clicked
+2019-03-03 22:58:01 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //button[@class='btn pull-right onboarding-primary-button']]
+2019-03-03 22:58:02 INFO  BasePage:160 - next Button Clicked
+2019-03-03 22:58:02 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: //button[@class='btn onboarding-primary-button pull-right']]
+2019-03-03 22:58:03 INFO  BasePage:174 - next1 Button Clicked
+2019-03-03 22:58:03 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (f5f2f864f19284d5835abadf4e221667)] -> xpath: (//button[@type='submit'])[1]]
+2019-03-03 22:58:03 ERROR BasePage:188 - Not able to click save button
+2019-03-03 23:01:08 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 23:01:10 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 23:01:10 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 23:01:10 INFO  BasePage:59 - Email Entered
+2019-03-03 23:01:10 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 23:01:11 INFO  BasePage:71 - Password Entered
+2019-03-03 23:01:11 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 23:01:12 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 23:01:22 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 23:01:22 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 23:01:24 INFO  BasePage:72 - Profile Button Clicked
+2019-03-03 23:01:24 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 23:01:28 INFO  BasePage:85 - MyProfile Button Clicked
+2019-03-03 23:01:28 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 23:01:29 INFO  BasePage:98 - Edit Button Clicked
+2019-03-03 23:01:29 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 23:01:30 INFO  BasePage:110 - camera Button Clicked
+2019-03-03 23:01:40 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> id: custom-input]
+2019-03-03 23:01:41 INFO  BasePage:122 - choosefile Button Clicked
+2019-03-03 23:01:44 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: //button[@class='submitbtn']]
+2019-03-03 23:01:44 INFO  BasePage:134 - upload Button Clicked
+2019-03-03 23:01:44 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: //button[@class='btn btn-default pull-right verify-continue-btn']]
+2019-03-03 23:01:44 INFO  BasePage:147 - continue Button Clicked
+2019-03-03 23:01:45 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: //button[@class='btn pull-right onboarding-primary-button']]
+2019-03-03 23:01:45 ERROR BasePage:162 - Not able to click next button
+2019-03-03 23:02:16 ERROR BasePage:51 - Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn onboarding-primary-button pull-right']'
+2019-03-03 23:02:26 ERROR BasePage:176 - Not able to click next1 button
+2019-03-03 23:02:26 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (b65b431994d186c19d6959ef0714713b)] -> xpath: (//button[@type='submit'])[1]]
+2019-03-03 23:02:27 INFO  BasePage:186 - save Button Clicked
+2019-03-03 23:04:11 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 23:04:12 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 23:04:13 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 23:04:13 INFO  BasePage:59 - Email Entered
+2019-03-03 23:04:14 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 23:04:14 INFO  BasePage:71 - Password Entered
+2019-03-03 23:04:14 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 23:04:15 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 23:04:25 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 23:04:25 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 23:04:26 INFO  BasePage:72 - Profile Button Clicked
+2019-03-03 23:04:26 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 23:04:30 INFO  BasePage:85 - MyProfile Button Clicked
+2019-03-03 23:04:30 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 23:04:31 INFO  BasePage:98 - Edit Button Clicked
+2019-03-03 23:04:31 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 23:04:32 INFO  BasePage:110 - camera Button Clicked
+2019-03-03 23:04:42 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> id: custom-input]
+2019-03-03 23:04:43 INFO  BasePage:122 - choosefile Button Clicked
+2019-03-03 23:04:45 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //button[@class='submitbtn']]
+2019-03-03 23:04:45 INFO  BasePage:134 - upload Button Clicked
+2019-03-03 23:04:46 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //button[@class='btn btn-default pull-right verify-continue-btn']]
+2019-03-03 23:04:46 INFO  BasePage:147 - continue Button Clicked
+2019-03-03 23:04:47 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //button[@class='btn pull-right onboarding-primary-button']]
+2019-03-03 23:04:47 INFO  BasePage:160 - next Button Clicked
+2019-03-03 23:04:48 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: //button[@class='btn onboarding-primary-button pull-right']]
+2019-03-03 23:04:48 INFO  BasePage:174 - next1 Button Clicked
+2019-03-03 23:04:49 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (e7d8be0d33c99bcbc3a356e801066eb3)] -> xpath: (//button[@type='submit'])[1]]
+2019-03-03 23:04:49 ERROR BasePage:188 - Not able to click save button
+2019-03-03 23:07:07 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 23:07:10 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 23:07:10 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 23:07:10 INFO  BasePage:59 - Email Entered
+2019-03-03 23:07:11 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 23:07:11 INFO  BasePage:71 - Password Entered
+2019-03-03 23:07:11 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 23:07:12 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 23:07:22 ERROR BasePage:29 - null and Instructor are not matched.
+2019-03-03 23:07:23 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //a[@data-button-name='Profile picture']]
+2019-03-03 23:07:24 INFO  BasePage:72 - Profile Button Clicked
+2019-03-03 23:07:24 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: (//a[@data-button-name='My Profile'])[1]]
+2019-03-03 23:07:28 INFO  BasePage:85 - MyProfile Button Clicked
+2019-03-03 23:07:28 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: (//a[@class='profile-edit-icon'])[1]]
+2019-03-03 23:07:30 INFO  BasePage:98 - Edit Button Clicked
+2019-03-03 23:07:30 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //i[@class='icon-camera']]
+2019-03-03 23:07:30 INFO  BasePage:110 - camera Button Clicked
+2019-03-03 23:07:41 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> id: custom-input]
+2019-03-03 23:07:41 INFO  BasePage:122 - choosefile Button Clicked
+2019-03-03 23:07:44 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //button[@class='submitbtn']]
+2019-03-03 23:07:44 INFO  BasePage:134 - upload Button Clicked
+2019-03-03 23:07:45 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //button[@class='btn btn-default pull-right verify-continue-btn']]
+2019-03-03 23:07:45 INFO  BasePage:147 - continue Button Clicked
+2019-03-03 23:07:45 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //button[@class='btn pull-right onboarding-primary-button']]
+2019-03-03 23:07:46 INFO  BasePage:160 - next Button Clicked
+2019-03-03 23:07:47 INFO  BasePage:49 - Element Found [[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: //button[@class='btn onboarding-primary-button pull-right']]
+2019-03-03 23:07:47 INFO  BasePage:174 - next1 Button Clicked
+2019-03-03 23:07:48 ERROR BasePage:51 - Element Not found[[ChromeDriver: chrome on XP (16b04f1eb9a9ebe67c8f7640316ac1bc)] -> xpath: (//button[@type='submit'])[1]]
+2019-03-03 23:07:48 INFO  BasePage:186 - save Button Clicked
